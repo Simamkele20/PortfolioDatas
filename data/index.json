@@ -1,0 +1,98 @@
+{
+    "jobTitle": [
+        {
+            "title": "aspiring developer",
+            "color": "rgb(57, 153, 0)"
+        }
+    ],
+    "about": [
+       "I`m Simamkele Tancu, a Full-Stack development student at Life Choices Academy.I initially wanted to focus on Front-end development, but now I enjoy full-stack because it allows me to work on all aspects of a project, from start to finish. My goal is to become a Professional full-stack developer, and I plan to achieve this by mastering both front-end and back-end development.",
+       "In addition to my technical skills, I`m also a great communicator and team paler. I`m comfortable giving presentations and am always eager to learn new things.I`m confident in my ability to adapt to new challenges and am excited to start my career as a full-stack developer."
+    ],
+    "education": [
+        {
+            "id": 1,
+            "year": 2022,
+            "description": "I got my Matric Certificate",
+            "place": "Usasazo High School"
+          
+          
+        },
+        {
+            "id": 2,
+            "year": 2023,
+            "description": "I got my software Development Certificate",
+            "place": "CodeTelligence Academy"
+        
+           
+        },
+        {
+            "id": 3,
+            "year": 2023,
+            "description": "Present",
+            "place": "LifeChoices Academy"
+           
+        }
+    ],
+    "skills": [
+        {
+            "title": "Web Development",
+            "experience": "I have one year experience in web development using the following languages: HTML,CSS,Javascript and also open-source CSS framework Bootstrap.I`m still building websites and application using the mentioned technologies"
+        },
+     
+        {
+            "title": "Programming",
+            "experience": "When it comes to programming, I have a lot to say, but I will be brief. Programming is the skills that will stay with me forever."
+        }
+    ],
+    "testimonials": [
+        {
+            "name": "Ntokozo",
+            "surname": "Sithebe",
+            "quotes": "Simamkele is bright student,  very enthusiastic about his work and those around him.Furthermore, Simamkele's positive attitude and excellent interpersonal skills make him a valuable team member who fosters a collaborative and productive work environment. Simamkele Tancu is undoubtedly a highly capable and driven individual, and I have no doubt that they will excel in any endeavor they pursue.",
+            "profile": "https://drive.google.com/file/d/12vzgEI72kkm-PGr9X83XU6Yuf6RRnd8I"
+        },
+        {
+            "name": "Siseko",
+            "surname": "Nonyongo",
+            "quotes": "I am delighted to recommend Simamkele Tancu, with whom I have had the privilege of working closely for the past two years. Simamkele is an exceptional individual with a strong work ethic, keen problem-solving abilities, and an unwavering commitment to their goals. During our time working together, I have been consistently impressed by Simamkele's dedication and ability to excel under pressure ",
+            "profile": "https://drive.google.com/file/d/1sHOJd4f1P8cy3jW8_Gg5KNl19wb6KMzn"
+        },
+        {
+            "name": "Shawn",
+            "surname": "Louw",
+            "quotes": "If you`re looking for a Front-End Developer , I hight recommend Simamkele Tancu. He`s always up to date on the latest technologies and is able to quickly learn new tools and techniques and he is also a great communicator and team player. ",
+            "profile": "https://drive.google.com/file/d/1i4lrVyv4TSU-tDooc8zQuKKeflQ9pn3v"
+        },
+        {
+            "name": "Zubair",
+            "surname": "Moerat",
+            "quotes": " I highly recommend Simamkele Tancu as a software developer. His technical expertise, commitment to quality, and strong communication skills make him an asset to any team. He is a quick learner and demonstrate exceptional attention to detail in every task he undertake. I look forward to the opportunity to work with him again in the future.",
+            "profile": "https://drive.google.com/file/d/1QGlN_Tz74wLMNP0BTV5yRhl2_MheDZxe"
+        }
+    ],
+    "projects":[
+        {
+            "name": "MOBICARE Clone",
+            "description": "In this App I`ve used HTML5 and CSS.",
+            "image": "https://drive.google.com/file/d/1axGQ3NowjFz7gCP7Aa25cNBS7w8v-eqN",
+            "gitHub": "https://github.com/Simamkele20/MOBICARE.git",
+            "netlify": "https://mobicare.vercel.app/"
+        },
+        {
+            "name": "Calculator Clone ",
+            "description": "This is a Basic Calculator I`ve used HTML5 and CSS to build it.",
+            "image": "https://drive.google.com/file/d/1cncw5p5ZhvtTn9F9BuINz7FfJpkFI9s4",
+            "gitHub": "https://github.com/Simamkele20/Calculator.git",
+            "netlify": "https://calculator-nine-brown.vercel.app/"
+        },
+        {
+            "name": "E-Commerce CLONE",
+            "description": "This is E-Commerce Project. In Project I`ve used HTML5 and CSS to build it.",
+            "image": "https://drive.google.com/file/d/1TyV5G-vi9WrFR7Gt1_hWwmIFUWbriL_E",
+            "gitHub": "https://github.com/Simamkele20/E-Commerce.git",
+            "netlify": "https://e-commerce-three-plum.vercel.app/"
+        }
+     
+    ]
+}
