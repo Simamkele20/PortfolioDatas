@@ -13,24 +13,21 @@
     "education": [
         {
             "id": 1,
-            "year": 2022,
-            "description": "I got my Matric Certificate",
+            "year":  "Jan 2018 - Dec 2022",
             "place": "Usasazo High School"
           
           
         },
         {
             "id": 2,
-            "year": 2023,
-            "description": "I got my software Development Certificate",
+            "year": "Jan 2023- June 2023",
             "place": "CodeTelligence Academy"
         
            
         },
         {
             "id": 3,
-            "year": 2023,
-            "description": "Present",
+            "year": "Present",
             "place": "LifeChoices Academy"
            
         }
