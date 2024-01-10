@@ -86,7 +86,7 @@
         },
         {
             "name": "Random People App",
-            "description":" "In this App I`ve used HTML5,Javascript and CSS to build it.",
+            "description":"In this App I`ve used HTML5,Javascript and CSS to build it.",
             "image":"https://drive.google.com/uc?id=1KQu5e0pgLAJ0nUZKWPHnGnbZpjycyqos",
             "gitHub": "https://github.com/Simamkele20/Bestfriends.git",
             "netlify": "https://random-people-mauve.vercel.app/"
