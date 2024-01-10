@@ -72,10 +72,31 @@
     "projects":[
         {
             "name": "MOBICARE Clone",
-            "description": "In this App I`ve used HTML5 and CSS.",
+            "description": "In this App I`ve used HTML5 and CSS to build it.",
             "image": "https://drive.google.com/uc?id=1axGQ3NowjFz7gCP7Aa25cNBS7w8v-eqN",
             "gitHub": "https://github.com/Simamkele20/MOBICARE.git",
             "netlify": "https://mobicare.vercel.app/"
+        },
+        {
+            "name": "Temperature Convetor",
+            "description": "In this App I`ve used HTML5,Javascript and CSS to build it.",
+            "image": "https://drive.google.com/uc?id=1Ej4OrABWOuAxew5VtTh5sQGc13PKS3Sg",
+            "gitHub": "https://github.com/Simamkele20/Temperature-Convector.git",
+            "netlify": "https://temperature-convector.vercel.app/"
+        },
+        {
+            "name": "Random People App",
+            "description":" "In this App I`ve used HTML5,Javascript and CSS to build it.",
+            "image":"https://drive.google.com/uc?id=1KQu5e0pgLAJ0nUZKWPHnGnbZpjycyqos",
+            "gitHub": "https://github.com/Simamkele20/Bestfriends.git",
+            "netlify": "https://random-people-mauve.vercel.app/"
+        },
+        {
+            "name": "BMI Calculator",
+            "description": "In this App I`ve used HTML5,Javascript and CSS to build it.",
+            "image":"https://drive.google.com/uc?id=1f5OSwKZORHVocSpt-MYtoBgqX861I1Mr",
+            "gitHub":"https://github.com/Simamkele20/BMI-Calculator.git",
+            "netlify":"https://bmi-calculator-iota-blush.vercel.app/"
         },
         {
             "name": "Calculator Clone ",
