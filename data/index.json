@@ -84,13 +84,7 @@
         }
     ],
     "projects":[
-           {
-            "name": "Calculator Clone ",
-            "description": "This is a Basic Calculator I`ve used HTML5 and CSS to build it.",
-            "image": "https://lh3.googleusercontent.com/fife/AGXqzDlrfRhCDRgzlvQOG3HY8htHEG1ND5-WJ-MoUW49c0I3zqXI9lofOzeQQQ7XLmQagRAWbSd7piL55aBU_oXOD8PKGTOwbX38WFulo26blpENmP_CxWXXg3P5PTT8okgCjhMLBlunN-T16XGh0zQPrEV0JmkcuJx6FImg3R5JX_8R0KtmORt32vUPgk1pulo3hBz1EdnI-Cnmc3KGyXOm2cPiAw5fNyLWOpownEpLeEDxAP3bRloZwJb77fWuE3JjNEAKQkk1veYQ5NL-MB2KYZCLoOM_GjcB5PVjasXKKZIbY_SL8BmaKfLjIqtYqbBjmaG5-Zs3obpPGllV6o36rfwdH0H4aRf5W1y433JVY5DRYYgkcjVFyOeG9JZxKrwAODRhR6BgcVTE7csm5mFawAd0-V53IFw9EDwRDSwgsE5ZDJF4zTOlQvdODs4wbLRQrx6JIuls27dYaVG-XjwknK_FDcAeizX1pzl1_ktTC2-Ibb3u7jv8n5PlzdXRjpkzAkVTzGVo5ebTRRVu0hNB9pMHjpWLAOwmTyP-DGfxoETehcIWFvF7_PFDsuYgPg8F9hjdUFihW7iTtEgtX7nt_O4MUlnufHPbz9QUURIWMqJsbjFDRdmZW56zT841SU7KnyPTPcJALj34r_XxRv85M-_mzO5k_IYgAu1miOReBxswlWQ7oIbmKeC8Dcb7khvFS2gRH3cIqYvqz7AirAnNh2pmenVQefTWsxwvKSHinsAozg_s3y8ily_7O8oIS7QxSgK3cYcYU-4aRgxpFQ4heynapBCTKUpJQ-Ua0bCf3rKa1dml5ZTTYOAzMDQ-Cps8-Bp253oe0-0n6-hked3XZNVfne6304OAlM51Rj47yEON5P7zxNMPAdDDXu5PGaPREaCHMdtROVjJVTqoLEJ2bq6wm16CU_abRMsb7iFfor6CS_btL8CYyHsHKZOKepcw6dsK53q7_SObLLtWN75TfOLRZONcIqasW9bpjk7190fnKEqDmHrNATgxgBZg1ok_VHrqQdw2MEAxoFv-cBS7CMIPNNS-loy_ppzk1YNVTgM6Q4wmJLutvLOTD-0v3pIrvWtadd-39J6Dq2dWM7-uVemqDL8QTwgpBrn5ALrUDGGOgS1GR2_8pj0gBZBtQ-0rvecxxhP7zzCzIEgb1MQogdFD2J2dGmrMLq4lUjWXRE6vLtYSYGSIvHzSq0JQSR9AUZIXPFasGxzn7qpxugw0kHEnJrtFI5MRS_rdzrOoGtVWtY41K47_byTlvG_RJm3QJ4HOrseIaOT-vECfOseq3rxbBPsF_mbb51dWyRGsHjWRlUjIkvVeV37WYhrz1318gQ5r5FVfkuW8tmJ1nHYUXRrsbGBePg-K3TE0dEJC0KeD1JAdPM8a3aJ_tY58D4qX9ln7qPWQhh_FAKtNZfjUYzoMbdMQhcOqB3bLWkT4So_t-n3nMNhsfSd_XwYB9nA7VoleuMZXnJd_OXuQjVdm4CLvHQzG8leOR6wJz2zUzAJGrQE4wXcqnlA=w2000-h2286",
-            "gitHub": "https://github.com/Simamkele20/Calculator.git",
-            "netlify": "https://calculator-nine-brown.vercel.app/"
-        },
+      
         {
             "name": "Temperature Convetor",
             "description": "In this App I`ve used HTML5,Javascript and CSS to build it.",
@@ -112,6 +106,14 @@
             "gitHub":"https://github.com/Simamkele20/BMI-Calculator.git",
             "netlify":"https://bmi-calculator-iota-blush.vercel.app/"
         },
+        {
+            "name": "E-Commerce CLONE",
+            "description": "In this App I`ve used HTML5, Javascript and CSS to build it.",
+            "image": "https://lh3.googleusercontent.com/fife/AGXqzDlbjoZA8URTVZ6wjmrxY0A32QMcteW8Trz-u3tUjDmdIhkF45p7WMTJT01FwW7HxG4ew630BpmCPj0d5VibBUxXOETxfVfx3ljo9WJUJsZv3bmcw-DEwlawwZ8OSDCh1YbZivyIFSzB6zFDpjIOKhD75oUOwlb_jAqHnvZttPFnBzu3hEvGDIdrwlNOIt9WaDkhGqt24Exe76KrEBhsBZQApKGmX7JixVEHjGl36RdU9FzhlymI5ZtA8ZeP3UM8e7KtVQ5E5c0LqNU5ORjXOkBT4AVafPR48r_ErIh0whrFsG3_bBs243Q-TD-_rO9tT3JuKpKxe5k_PekEzqUh2okyuAU242TbeR403ItQQHnVeByTCWbjbmEsIujn1Fc_SnBvWrnrhfRKOs9tM0CPMv_m2lE2mi3QWPvvUvFC7GT_tz4zJEOWK4OtDMTkITKZTswWFcnzJYDUvxdvgw6BPRhhsc5Pk3xp4c8xKQkPsxm1Bg3Lbyq74RROrvVXrlsNQ0-cTCr3sD5mkQoIlf-YVBB3R9MuhTi84OSFl2bgfiiQ13YB-qf8GrgJcQUKBIDiNto9wx4h8U6EvKmliIHueGPvAQdK_XJLlzdTQZYjFxa8W7ca4Vi_BM4hgyo0aGFKl1AZEHudiyf3xBlijYbs6rOO3GmWbTzUu20EZl_1U9cW5bpg8yT1BGnAwrd24qOquiP0IHcs2BIWx1o2fDm_AW4jM2ZK0pOHzg1M3CFKnrZQFpgI9zcNaV31BbtVp_K0mqNnnyI2je4EBQA1kBDW84m8H9MhNRBT-K0CbTXuyGlDZ5_Jxve9pvAnRlpHKsVgXVpzXRLG5AeZlOX6PwWpOHxLgINXZk4yuTU3VAkRif0uP6HzDZh6y9_WHlz8_7eluoLhZ7uY0ymYtNbIzlViH5RE8Sra2URhN8rOIGbi1SfOVeAyYxFcY6rPmMVx90WluhSMG66iSMVw0OiT8f0Zeqw9wRaLC_xCclDbhyaPqdOpq4O5Mk_6tQxBJylAK-jkdnbNduPLwWSpjNFNE2QmxbXCoBfc4zFMYza0GS2stbt7lGzl1UQiNAdcZnjfKYybX3ElmxQr2Qj22qvAYj9XIdy14wIaz-QfXCIxhAA7-77QxpoRy-PkYrAGdEJ1FwlCNvtpJLhbLhYN8qnmBTCiyzmqtnN-uRunOC9sUTQS9gaK1teDLFn8c3l8YV5lK-yqUHVY3jtTP5sE0aHuw6tcmcsbjJMq975d4gJqLOiG9c0TR5pJV5eMgkg5d3l2r64KYx4pPAzYi1SE90PaHQkMMuQgzMjSzXGXPld5pV8pKGlKSJbOMUBK1rz-fEdQdMKPPAhWYmtkx78BdM-PODrqV0I9SaEtBoICfZrZhf4zc-HkvDpbSkqh8uGK1nznPrWEaLVZ9C-EsNMod8RGs4lshRSkjl8319J9hV4QlfsZmHi3TOtvIGp1B8HSrcLdkitcbOBNPXfbzcy8z2iMhg4JjLWGHFx5yNW1rTzAYxO9oxpXfvnGBeemy2M=w10000-h10000",
+            "gitHub":"https://github.com/Simamkele20/Simamkele-Enterprises.git",
+            "netlify": "https://simamkele-enterprises.vercel.app/"
+        },
+        
             {
             "name": "MOBICARE Clone",
             "description": "In this App I`ve used HTML5 and CSS to build it.",
@@ -119,13 +121,12 @@
             "gitHub": "https://github.com/Simamkele20/MOBICARE.git",
             "netlify": "https://mobicare.vercel.app/"
         },
-     
-        {
-            "name": "E-Commerce CLONE",
-            "description": "This is E-Commerce Project. In Project I`ve used HTML5 and CSS to build it.",
-            "image": "https://lh3.googleusercontent.com/fife/AGXqzDlbjoZA8URTVZ6wjmrxY0A32QMcteW8Trz-u3tUjDmdIhkF45p7WMTJT01FwW7HxG4ew630BpmCPj0d5VibBUxXOETxfVfx3ljo9WJUJsZv3bmcw-DEwlawwZ8OSDCh1YbZivyIFSzB6zFDpjIOKhD75oUOwlb_jAqHnvZttPFnBzu3hEvGDIdrwlNOIt9WaDkhGqt24Exe76KrEBhsBZQApKGmX7JixVEHjGl36RdU9FzhlymI5ZtA8ZeP3UM8e7KtVQ5E5c0LqNU5ORjXOkBT4AVafPR48r_ErIh0whrFsG3_bBs243Q-TD-_rO9tT3JuKpKxe5k_PekEzqUh2okyuAU242TbeR403ItQQHnVeByTCWbjbmEsIujn1Fc_SnBvWrnrhfRKOs9tM0CPMv_m2lE2mi3QWPvvUvFC7GT_tz4zJEOWK4OtDMTkITKZTswWFcnzJYDUvxdvgw6BPRhhsc5Pk3xp4c8xKQkPsxm1Bg3Lbyq74RROrvVXrlsNQ0-cTCr3sD5mkQoIlf-YVBB3R9MuhTi84OSFl2bgfiiQ13YB-qf8GrgJcQUKBIDiNto9wx4h8U6EvKmliIHueGPvAQdK_XJLlzdTQZYjFxa8W7ca4Vi_BM4hgyo0aGFKl1AZEHudiyf3xBlijYbs6rOO3GmWbTzUu20EZl_1U9cW5bpg8yT1BGnAwrd24qOquiP0IHcs2BIWx1o2fDm_AW4jM2ZK0pOHzg1M3CFKnrZQFpgI9zcNaV31BbtVp_K0mqNnnyI2je4EBQA1kBDW84m8H9MhNRBT-K0CbTXuyGlDZ5_Jxve9pvAnRlpHKsVgXVpzXRLG5AeZlOX6PwWpOHxLgINXZk4yuTU3VAkRif0uP6HzDZh6y9_WHlz8_7eluoLhZ7uY0ymYtNbIzlViH5RE8Sra2URhN8rOIGbi1SfOVeAyYxFcY6rPmMVx90WluhSMG66iSMVw0OiT8f0Zeqw9wRaLC_xCclDbhyaPqdOpq4O5Mk_6tQxBJylAK-jkdnbNduPLwWSpjNFNE2QmxbXCoBfc4zFMYza0GS2stbt7lGzl1UQiNAdcZnjfKYybX3ElmxQr2Qj22qvAYj9XIdy14wIaz-QfXCIxhAA7-77QxpoRy-PkYrAGdEJ1FwlCNvtpJLhbLhYN8qnmBTCiyzmqtnN-uRunOC9sUTQS9gaK1teDLFn8c3l8YV5lK-yqUHVY3jtTP5sE0aHuw6tcmcsbjJMq975d4gJqLOiG9c0TR5pJV5eMgkg5d3l2r64KYx4pPAzYi1SE90PaHQkMMuQgzMjSzXGXPld5pV8pKGlKSJbOMUBK1rz-fEdQdMKPPAhWYmtkx78BdM-PODrqV0I9SaEtBoICfZrZhf4zc-HkvDpbSkqh8uGK1nznPrWEaLVZ9C-EsNMod8RGs4lshRSkjl8319J9hV4QlfsZmHi3TOtvIGp1B8HSrcLdkitcbOBNPXfbzcy8z2iMhg4JjLWGHFx5yNW1rTzAYxO9oxpXfvnGBeemy2M=w10000-h10000",
-            "gitHub":"https://github.com/Simamkele20/Simamkele-Enterprises.git",
-            "netlify": "https://simamkele-enterprises.vercel.app/"
+             {
+            "name": "Calculator Clone ",
+            "description": "This is a Basic Calculator I`ve used HTML5 and CSS to build it.",
+            "image": "https://lh3.googleusercontent.com/fife/AGXqzDlrfRhCDRgzlvQOG3HY8htHEG1ND5-WJ-MoUW49c0I3zqXI9lofOzeQQQ7XLmQagRAWbSd7piL55aBU_oXOD8PKGTOwbX38WFulo26blpENmP_CxWXXg3P5PTT8okgCjhMLBlunN-T16XGh0zQPrEV0JmkcuJx6FImg3R5JX_8R0KtmORt32vUPgk1pulo3hBz1EdnI-Cnmc3KGyXOm2cPiAw5fNyLWOpownEpLeEDxAP3bRloZwJb77fWuE3JjNEAKQkk1veYQ5NL-MB2KYZCLoOM_GjcB5PVjasXKKZIbY_SL8BmaKfLjIqtYqbBjmaG5-Zs3obpPGllV6o36rfwdH0H4aRf5W1y433JVY5DRYYgkcjVFyOeG9JZxKrwAODRhR6BgcVTE7csm5mFawAd0-V53IFw9EDwRDSwgsE5ZDJF4zTOlQvdODs4wbLRQrx6JIuls27dYaVG-XjwknK_FDcAeizX1pzl1_ktTC2-Ibb3u7jv8n5PlzdXRjpkzAkVTzGVo5ebTRRVu0hNB9pMHjpWLAOwmTyP-DGfxoETehcIWFvF7_PFDsuYgPg8F9hjdUFihW7iTtEgtX7nt_O4MUlnufHPbz9QUURIWMqJsbjFDRdmZW56zT841SU7KnyPTPcJALj34r_XxRv85M-_mzO5k_IYgAu1miOReBxswlWQ7oIbmKeC8Dcb7khvFS2gRH3cIqYvqz7AirAnNh2pmenVQefTWsxwvKSHinsAozg_s3y8ily_7O8oIS7QxSgK3cYcYU-4aRgxpFQ4heynapBCTKUpJQ-Ua0bCf3rKa1dml5ZTTYOAzMDQ-Cps8-Bp253oe0-0n6-hked3XZNVfne6304OAlM51Rj47yEON5P7zxNMPAdDDXu5PGaPREaCHMdtROVjJVTqoLEJ2bq6wm16CU_abRMsb7iFfor6CS_btL8CYyHsHKZOKepcw6dsK53q7_SObLLtWN75TfOLRZONcIqasW9bpjk7190fnKEqDmHrNATgxgBZg1ok_VHrqQdw2MEAxoFv-cBS7CMIPNNS-loy_ppzk1YNVTgM6Q4wmJLutvLOTD-0v3pIrvWtadd-39J6Dq2dWM7-uVemqDL8QTwgpBrn5ALrUDGGOgS1GR2_8pj0gBZBtQ-0rvecxxhP7zzCzIEgb1MQogdFD2J2dGmrMLq4lUjWXRE6vLtYSYGSIvHzSq0JQSR9AUZIXPFasGxzn7qpxugw0kHEnJrtFI5MRS_rdzrOoGtVWtY41K47_byTlvG_RJm3QJ4HOrseIaOT-vECfOseq3rxbBPsF_mbb51dWyRGsHjWRlUjIkvVeV37WYhrz1318gQ5r5FVfkuW8tmJ1nHYUXRrsbGBePg-K3TE0dEJC0KeD1JAdPM8a3aJ_tY58D4qX9ln7qPWQhh_FAKtNZfjUYzoMbdMQhcOqB3bLWkT4So_t-n3nMNhsfSd_XwYB9nA7VoleuMZXnJd_OXuQjVdm4CLvHQzG8leOR6wJz2zUzAJGrQE4wXcqnlA=w2000-h2286",
+            "gitHub": "https://github.com/Simamkele20/Calculator.git",
+            "netlify": "https://calculator-nine-brown.vercel.app/"
         }
      
     ]
