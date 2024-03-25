@@ -94,11 +94,11 @@
             "netlify": "https://temperature-convector.vercel.app/"
         },
         {
-            "name": "Random People App",
-            "description":"In this App I`ve used HTML5,Javascript and CSS to build it.",
-            "image":"https://lh3.googleusercontent.com/fife/AGXqzDmfhLZuXj8G-0gnC-nnAysgTWApmlpOvO0UE8A06DTcSV_o_b1UnYpd4Cm-jsq8F46gU9N4QTV4xmkndV9AzNlCKNpvUxx1T9aZ1DLJhgEOVhtwTdp85Ofj0Mp0bmdB1UDEGDAZPw8kqWTLMQIMU2F8U8lI5xG-gDof8RQvawoUZOMBBRkMd1-NkgRxSGwutRdMv7ntSWjIcvga7c-dy5V06NhBgpdklqyq8F1tdV88ArqtgybUJBV-XLW23iFeCQog4PJp8JNLl5xo42Cx-Y4TuF2v2sPgTDGtctwnmGH01N-DoxO02qj77tmWZejaoVtMg1Te1GokBLVbNYCKTgrGp3E-GK6ph30vdmG404tKjAygCxknxiisam0da6bj4EdjQG4XxhQUi9CuVRG3Ofce0ditEBVwcxa59TPK7lXNynUpgyXvfXdQZJ8K_kypWhupowZHVNNRNXNFAkiO3ypOAEhANaNkGglybDEU6UqObETmjqJQoI6b4yMZx9N6HANaTPK0vct76PweCJn5_0-YbC3nWAjgQ-9Foj3KpVhoPQ6L7dFjEJDB9C5JWhPfesyuK_GHZqzfytw-QAWHxhfqEFXc-vxc73DhbgOjahZQXKnG1qwYXzQyg1ZGrJk2I7qypCcRQU2dVoq5J1oUyi-6MRjNI0ZJbuZ9AeVWmmOB3e4Mo1IlDv2_tJ_XKxW2D5-ZLeWK94Kd07OYPak_IrcS69J6-VkDl3BNpcgm5DYMizJwkePbfbWgpDqmI7UUcZjTS15eLVJ0RtYsxAxNErPv2-gLl4ZYCaiD6xrkAIneLtQvsLcxeRceXIg29QWodtx8klcEGvFKkQuW7kjJaOpQU-Jmhta9Z6TVpUITPS68_lmTrNnZGliMBQz3Ukx6mQYznNJUCN_w7Ux0FifZGgwHlSy9slnMsdrNdzec1IKmDF9AxX0IZno4Gvnri_G6ROaV0xnUJzZh6U-jWI9fEEySuGYT_48P-KVFWo_xNcGqJtJNvZ6UiOgGBPWXdMd6UhAWZn4wSTdGJQOLhl7QAnLBdElaufzr9uBupGYS-i5-KoUJkJ-5CoJleyzG7kykInpmDiG4-GoArGg1RO7O5SqGAULM8PX9sCxu3hiKo658aQWHHNHEPuc_doW7nkjXQWLovfGqa_fzP_wM5miY-3_TVfaU4imTKbYs_a1dZEl-VaGgP0m69WNRYuWDNXwcK7H-e-pG1dJ1ybSfhoRjSlKjkTuftu6n0e8TvPLzU7GPZli7RZJ9e40WzKGD6Jn58AudvdL6z5LL_EfSt8ZMhtaxDVK4KlKC1ldirrPzdKL3BN6GYeehnxo4wL6l4H7tn43oVE84xJrWqZh9cPXvCp-rCy3WTjdSiloPHyImvxZ4oXM24suT_46YMvqUTiU0cOB88NHvKaWPgki2Zn6QFWhnDm-8nubIGtS8gHR6RgYf0qYV9dICo0x4gBg3uYk4INGNUo2t3KsaQ9J6SBRag1B2rYD6uX9SrI572cZL7E17yE-x7qcef-I=w1003-h912",
-            "gitHub": "https://github.com/Simamkele20/Bestfriends.git",
-            "netlify": "https://random-people-mauve.vercel.app/"
+            "name": "Gentleman`s Edge Barber",
+            "description":"In this App I`ve used HTML5,Vue JS, Node, My Sql and CSS to build it.",
+            "image":"https://i.ibb.co/P4SGbRG/Screenshot-2024-03-25-141919.png",
+            "gitHub": https://github.com/Simamkele20/Gentlemans_Edge_Barber.git",
+            "netlify": "https://gentlemans-edge-barber.web.app/"
         },
         {
             "name": "BMI Calculator",
